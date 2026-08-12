@@ -109,7 +109,7 @@ versioned migrations, and CI on every push.
 **Links**
 
 [🌐 Live demo](https://katedra-client.vercel.app) ·
-[⚙️ API](https://katedra-server.onrender.com/api/v1) ·
+[⚙️ API](https://katedra-server.onrender.com/api/v1) (requires authentication) ·
 [📦 katedra-server](https://github.com/SAULALEE/katedra-server) ·
 [📦 katedra-client](https://github.com/SAULALEE/katedra-client)
 
@@ -151,15 +151,6 @@ versioned migrations, and CI on every push.
 | Advanced Technical Degree (TSU) in Information and Communication Technologies | Universidad Tecnológica de Nezahualcóyotl | January 2024 – January 2026 |
 
 **Languages:** Spanish native · English basic (A2)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SAULALEE&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="SAULALEE's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAULALEE&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Most used languages">
-</p>
 
 ---
 

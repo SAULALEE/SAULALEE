@@ -110,7 +110,7 @@ tests automatizados, migraciones versionadas y CI en cada push.
 **Enlaces**
 
 [🌐 Demo en vivo](https://katedra-client.vercel.app) ·
-[⚙️ API](https://katedra-server.onrender.com/api/v1) ·
+[⚙️ API](https://katedra-server.onrender.com/api/v1) (requiere autenticación) ·
 [📦 katedra-server](https://github.com/SAULALEE/katedra-server) ·
 [📦 katedra-client](https://github.com/SAULALEE/katedra-client)
 
@@ -153,15 +153,6 @@ tests automatizados, migraciones versionadas y CI en cada push.
 | TSU en Tecnologías de la Información y Comunicación | Universidad Tecnológica de Nezahualcóyotl | Enero 2024 – Enero 2026 |
 
 **Idiomas:** Español nativo · Inglés básico (A2)
-
----
-
-## Estadísticas de GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SAULALEE&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="Estadísticas de GitHub de SAULALEE">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAULALEE&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Lenguajes más usados">
-</p>
 
 ---
 
