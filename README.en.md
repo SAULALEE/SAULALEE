@@ -1,10 +1,21 @@
-<h1 align="center">Hi, I'm Saúl 👋</h1>
+### Hi there! 👋
 
-<h3 align="center">Junior Full Stack Developer — Java (Spring Boot) + React</h3>
+I'm **Saúl**, a Junior Full Stack Developer working with **Java (Spring Boot)** and
+**React**, based in the Mexico City metropolitan area.
 
-<p align="center">
-  📍 Mexico City metropolitan area, Mexico · Open to remote work
-</p>
+I love building web applications end to end: REST APIs in Spring Boot and the React
+frontends that consume them. With **9+ months of experience**, I've built **37+ REST
+endpoints in production** used by **30+ users**.
+
+Right now I'm building **Katedra AI** (a production app, 37 endpoints, 404 automated
+tests) while studying a B.Eng. in Information and Communication Technologies at
+Universidad Tecnológica de Nezahualcóyotl.
+
+**Fun facts:**
+- Katedra AI integrates the OpenAI API to generate full theory, exams and slides from a
+  single syllabus.
+- I learned Spring Boot and React at the same time, working two different jobs in
+  parallel — one with Angular + NestJS, the other with React + Prisma.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sa%C3%BAl-alejandro-mart%C3%ADnez-gonz%C3%A1lez-0b16623a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -16,17 +27,6 @@
 <p align="center">
   <a href="README.md">🇲🇽 Lee este perfil en español</a>
 </p>
-
----
-
-## About me
-
-Junior Full Stack Developer with **9+ months of experience** building scalable web
-applications used by **30+ users**. I work with **Spring Boot (Java)** and **React
-(TypeScript)**, having built **37+ REST endpoints in production**.
-
-I write clean, maintainable code aligned with full stack best practices: automated tests,
-versioned migrations, and CI on every push.
 
 ---
 

@@ -1,10 +1,21 @@
-<h1 align="center">Hola, soy Saúl 👋</h1>
+### Hola! 👋
 
-<h3 align="center">Desarrollador Full Stack Jr. — Java (Spring Boot) + React</h3>
+Soy **Saúl**, un Desarrollador Full Stack Jr. de **Java (Spring Boot)** y **React**,
+ubicado en La Paz, Estado de México.
 
-<p align="center">
-  📍 La Paz, Estado de México · Disponible para trabajo remoto
-</p>
+Me apasiona construir aplicaciones web de extremo a extremo: APIs REST en Spring Boot y
+los frontends en React que las consumen. Con **+9 meses de experiencia**, he construido
+**+37 endpoints REST en producción** usados por **+30 usuarios**.
+
+Ahora mismo estoy construyendo **Katedra AI** (app en producción, 37 endpoints, 404 tests
+automatizados) mientras curso Ingeniería en Tecnologías de la Información y Comunicación
+en la Universidad Tecnológica de Nezahualcóyotl.
+
+**Datos curiosos:**
+- Katedra AI integra la API de OpenAI para generar teoría, exámenes y diapositivas
+  completos a partir de un solo temario.
+- Aprendí Spring Boot y React trabajando en paralelo en dos empleos distintos: uno con
+  Angular + NestJS, otro con React + Prisma.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sa%C3%BAl-alejandro-mart%C3%ADnez-gonz%C3%A1lez-0b16623a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -16,17 +27,6 @@
 <p align="center">
   <a href="README.en.md">🇬🇧 Read this profile in English</a>
 </p>
-
----
-
-## Sobre mí
-
-Desarrollador Full Stack Jr. con **+9 meses de experiencia** construyendo aplicaciones web
-escalables usadas por **+30 usuarios**. Trabajo con **Spring Boot (Java)** y **React
-(TypeScript)**, con los que he construido **+37 endpoints REST en producción**.
-
-Escribo código limpio y mantenible, alineado con buenas prácticas de desarrollo full stack:
-tests automatizados, migraciones versionadas y CI en cada push.
 
 ---
 
