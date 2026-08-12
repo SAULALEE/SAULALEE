@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/sa%C3%BAl-alejandro-mart%C3%ADnez-gonz%C3%A1lez-0b16623a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:saulalejandro678@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="cv/Saul_Martinez_CV_ES.pdf"><img src="https://img.shields.io/badge/CV-PDF-4B5563?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV en PDF"></a>
-  <a href="https://katedra-client.vercel.app"><img src="https://img.shields.io/badge/Demo_en_vivo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo en vivo"></a>
+  <a href="https://katedra-client.vercel.app"><img src="https://img.shields.io/badge/Demo_en_vivo-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo en vivo"></a>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ tests automatizados, migraciones versionadas y CI en cada push.
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![REST](https://img.shields.io/badge/API%20REST-005571?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-FB015B?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe%20API-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 **Frontend**
@@ -53,7 +53,7 @@ tests automatizados, migraciones versionadas y CI en cada push.
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-4B5563?style=flat-square&logo=shadcnui&logoColor=white)
 
 **Bases de Datos**
 
@@ -67,12 +67,12 @@ tests automatizados, migraciones versionadas y CI en cada push.
 **DevOps y Agile**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-4B5563?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-4B5563?style=flat-square&logo=vercel&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logo=bruno&logoColor=black)
 ![Scrum](https://img.shields.io/badge/Scrum%2FAgile-009FDA?style=flat-square)
 
