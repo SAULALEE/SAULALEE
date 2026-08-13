@@ -1,10 +1,8 @@
 ### ¡Hola! 👋
 
-Mi nombre es **Saúl**, Full Stack Developer Jr. de **Java (Spring Boot)** y **React**, en La Paz, Estado de
-México. Construyo aplicaciones de extremo a extremo — API, base de datos y frontend — y ahora mismo
-estoy construyendo **Katedra AI**, mi producto en producción, mientras curso Ingeniería en TIC.
+Mi nombre es **Saúl Alejandro**, Desarrollador Full Stack Jr. de **Java (Spring Boot)** y **Javascript/Typescript (React)**. Desarrollo aplicaciones web **robustas** y **escalables** con API REST, bases de datos relacionales y diseño UI/UX moderno. Mi proyecto actual en producción se llama **Katedra AI**, en el cual implementé lo mas reciente en el mundo de la IA y el desarrollo de software.
 
-*Construyendo Katedra AI · abierto a conversar sobre nuevos retos Full Stack.*
+*Disponible para futuros proyectos Full Stack.*
 
 <p align="center">
   <a href="https://katedra-client.vercel.app"><img src="https://img.shields.io/badge/Demo_en_vivo-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo en vivo"></a>
@@ -19,8 +17,13 @@ estoy construyendo **Katedra AI**, mi producto en producción, mientras curso In
 
 ### 🚀 Katedra AI
 
-Genera teoría, exámenes y diapositivas para profesores a partir de un temario, usando OpenAI a
-través de Spring AI. Lo diseño, construyo y opero yo solo — de la arquitectura al despliegue.
+Katedra AI es una aplicación web con arquitectura cliente-servidor y monolito modular, desarrollada
+en React y Spring Boot, que genera teoría, exámenes y diapositivas para profesores a partir de un
+temario mediante la integración de la API Key de OpenAI a través de Spring AI. Cuenta con 37
+endpoints REST distribuidos en 7 módulos, entre los que se encuentran la autenticación mediante
+OAuth2, las suscripciones gestionadas con Stripe y el control de acceso por roles a través de JWT,
+mientras que el módulo de Temarios, compuesto por 14 endpoints, permite extraer contenido de
+archivos y URLs y conservar un historial de cambios en tiempo real.
 
 <p align="center">
   <a href="https://katedra-client.vercel.app">
@@ -28,12 +31,10 @@ través de Spring AI. Lo diseño, construyo y opero yo solo — de la arquitectu
   </a>
 </p>
 
-- Un profesor sube un temario y en minutos obtiene teoría, examen con respuestas y diapositivas en
-  PPTX — antes le tomaba horas armarlo a mano.
-- Suscripciones con **Stripe** y acceso por roles vía **OAuth2/JWT**: listo para cobrar, no solo
-  para demostrar.
-- **404 tests** (336 backend · 68 frontend) y colección **Bruno** documentada — pensado para
-  mantenerse, no solo para funcionar una vez.
+El proyecto está respaldado por 404 pruebas automatizadas, 336 en el backend con JUnit 5, Mockito y
+AssertJ, y 68 en el frontend con Node Test, además de una colección documentada en Bruno. El
+frontend se encuentra desplegado en Vercel y consume el backend alojado en Render mediante API
+REST.
 
 <p>
 <img src="https://img.shields.io/badge/37-endpoints_REST-24292F?style=flat-square" alt="37 endpoints REST">
@@ -49,7 +50,7 @@ través de Spring AI. Lo diseño, construyo y opero yo solo — de la arquitectu
 API: requiere autenticación, primer arranque ~1 min (cold start)
 
 <p align="center">
-  <img src="assets/github-banner.jpg" alt="Saúl Alejandro Martínez González — Full Stack Developer" width="100%">
+  <img src="assets/github-banner.jpg" alt="Saúl Alejandro Martínez González, Full Stack Developer" width="100%">
 </p>
 
 ### 🛠️ Stack
@@ -79,6 +80,10 @@ API: requiere autenticación, primer arranque ~1 min (cold start)
 
 ### 💼 Experiencia
 
-Full Stack Jr. en **Papalote Museo del Niño** (2026) y **Tec Gurus I.T. Quality Services** (2025),
-construyendo un ERP interno usado por +30 personas y un sistema de generación de contenido con IA.
-Detalle completo en el [CV →](cv/Saul_Martinez_CV_ES.pdf)
+Como Full Stack Jr. en **Papalote Museo del Niño**, de enero a mayo de 2026, desarrollé quince
+componentes reutilizables en React para un ERP interno utilizado por más de treinta usuarios,
+además de ejecutar migraciones de base de datos en producción con Prisma y NestJS. Previamente, en
+**Tec Gurus I.T. Quality Services**, de agosto a diciembre de 2025, integré un sistema de
+generación de contenido impulsado por inteligencia artificial y construí más de diez endpoints REST
+en Spring Boot, consumidos desde vistas desarrolladas en Angular. El detalle completo de mi
+trayectoria profesional está disponible en el [currículum →](cv/Saul_Martinez_CV_ES.pdf)

@@ -1,11 +1,11 @@
 ### Hi there! 👋
 
-I'm **Saúl**, a Full Stack Developer Jr. working with **Java (Spring Boot)** and **React**, based
-in La Paz, State of Mexico (Greater Mexico City area). I build applications end to end — API,
-database and frontend — and right now I'm building **Katedra AI**, my product in production, while
-studying a B.Eng. in ICT.
+My name is **Saúl Alejandro**, a Full Stack Developer Jr. working with **Java (Spring Boot)** and
+**JavaScript/TypeScript (React)**. I develop robust, scalable web applications with REST APIs,
+relational databases and modern UI/UX design. My current project in production is called
+**Katedra AI**, where I implemented the latest advances in AI and software development.
 
-*Building Katedra AI · open to conversations about new Full Stack challenges.*
+*Available for upcoming Full Stack projects.*
 
 <p align="center">
   <a href="https://katedra-client.vercel.app"><img src="https://img.shields.io/badge/Live_demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"></a>
@@ -20,8 +20,12 @@ studying a B.Eng. in ICT.
 
 ### 🚀 Katedra AI
 
-Generates theory, exams and slides for teachers from a syllabus, using OpenAI through Spring AI.
-I design, build and operate it on my own — from architecture to deployment.
+Katedra AI is a web application with a client-server architecture and a modular monolith, built
+with React and Spring Boot, that generates theory, exams and slides for teachers from a syllabus
+through the integration of the OpenAI API Key via Spring AI. It includes 37 REST endpoints across 7
+modules, among them authentication through OAuth2, subscriptions managed with Stripe and
+role-based access control via JWT, while the Syllabus module, made up of 14 endpoints, extracts
+content from files and URLs and keeps a real-time history of changes.
 
 <p align="center">
   <a href="https://katedra-client.vercel.app">
@@ -29,12 +33,9 @@ I design, build and operate it on my own — from architecture to deployment.
   </a>
 </p>
 
-- A teacher uploads a syllabus and gets theory, an exam with answers, and slides in PPTX within
-  minutes — work that used to take hours to put together by hand.
-- **Stripe** subscriptions and role-based access via **OAuth2/JWT**: built to charge, not just to
-  demo.
-- **404 tests** (336 backend · 68 frontend) and a documented **Bruno** collection — built to be
-  maintained, not just to work once.
+The project is backed by 404 automated tests, 336 on the backend with JUnit 5, Mockito and AssertJ,
+and 68 on the frontend with Node Test, along with a documented Bruno collection. The frontend is
+deployed on Vercel and consumes the backend hosted on Render through a REST API.
 
 <p>
 <img src="https://img.shields.io/badge/37-REST_endpoints-24292F?style=flat-square" alt="37 REST endpoints">
@@ -50,7 +51,7 @@ I design, build and operate it on my own — from architecture to deployment.
 API: requires auth, first request ~1 min (cold start)
 
 <p align="center">
-  <img src="assets/github-banner.jpg" alt="Saúl Alejandro Martínez González — Full Stack Developer" width="100%">
+  <img src="assets/github-banner.jpg" alt="Saúl Alejandro Martínez González, Full Stack Developer" width="100%">
 </p>
 
 ### 🛠️ Stack
@@ -80,6 +81,10 @@ API: requires auth, first request ~1 min (cold start)
 
 ### 💼 Experience
 
-Full Stack Jr. at **Papalote Museo del Niño** (2026) and **Tec Gurus I.T. Quality Services**
-(2025), building an internal ERP used by 30+ people and an AI-based content generation system.
-Full detail in the [resume →](cv/Saul_Martinez_CV_EN.pdf)
+As a Full Stack Developer Jr. at **Papalote Museo del Niño**, from January to May 2026, I built
+fifteen reusable React components for an internal ERP used by more than thirty people, in addition
+to running production database migrations with Prisma and NestJS. Previously, at **Tec Gurus I.T.
+Quality Services**, from August to December 2025, I integrated an AI-driven content generation
+system and built more than ten REST endpoints in Spring Boot, consumed from views developed in
+Angular. The complete detail of my professional background is available in the
+[résumé →](cv/Saul_Martinez_CV_EN.pdf)
